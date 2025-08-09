@@ -35,7 +35,7 @@ Allows users to add, delete, and store tasks using **local storage** for persist
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐 Live Demo
-[Click here to try the app live on GitHub Pages](https://github.com/Paras9771/Interactive-ToDo-app)
+[Click here to try the app live on GitHub Pages]( https://paras9771.github.io/Interactive-ToDo-app/)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
