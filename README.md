@@ -41,3 +41,9 @@ Allows users to add, delete, and store tasks using **local storage** for persist
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## ✍️ Author
+**Paras Tomar**  
+[GitHub Profile](https://github.com/Paras9771)
