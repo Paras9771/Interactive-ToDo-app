@@ -23,7 +23,7 @@ Allows users to add, delete, and store tasks using **local storage** for persist
 
 ## 📸 Screenshots
 Home Page
-![ToDo App Screenshot](screenshot.png)  
+Screenshot.png
 
 ----------------------------------------------------------------------------------------------------------------------------
 
