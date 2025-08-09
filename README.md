@@ -26,12 +26,11 @@ Allows users to add, delete, and store tasks using **local storage** for persist
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-## 📂 Project Structure
-Interactive-ToDo-App/
-│── todo.html # Main HTML file
-│── todo.css # Stylesheet
-│── todo.js # JavaScript logic
-│── README.md # Project documentation
+## 📂 Project Structure & Files
+- [`todo.html`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/todo.html) — Main HTML file  
+- [`todo.css`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/todo.css) — Stylesheet  
+- [`todo.js`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/todo.js) — JavaScript logic  
+- [`README.md`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/README.md) — Project documentation  
 
 ## 🌐 Live Demo
 (Add this link after deploying via GitHub Pages)
