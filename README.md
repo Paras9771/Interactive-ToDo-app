@@ -32,6 +32,12 @@ Allows users to add, delete, and store tasks using **local storage** for persist
 - [`todo.js`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/todo.js) — JavaScript logic  
 - [`README.md`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/README.md) — Project documentation  
 
+----------------------------------------------------------------------------------------------------------------------------
+
 ## 🌐 Live Demo
 [Click here to try the app live on GitHub Pages](https://Paras9771.github.io/Interactive-ToDo-app/)
 
+----------------------------------------------------------------------------------------------------------------------------
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
