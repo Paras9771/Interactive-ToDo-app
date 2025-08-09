@@ -1,8 +1,9 @@
 # Interactive-ToDo-App
+
 Responsive and modern To-Do List web app built with **HTML**, **CSS**, and **JavaScript**.  
 Allows users to add, delete, and store tasks using **local storage** for persistent data saving.
 
---------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🚀 Features
 - **Add Tasks** — Quickly add new tasks to your list.
@@ -11,7 +12,7 @@ Allows users to add, delete, and store tasks using **local storage** for persist
 - **Responsive Design** — Works on desktop, tablet, and mobile devices.
 - **Modern UI** — Glassmorphism-inspired, clean, and user-friendly interface.
 
-----------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🛠 Tech Stack
 - **HTML5**
@@ -19,30 +20,30 @@ Allows users to add, delete, and store tasks using **local storage** for persist
 - **JavaScript (Vanilla JS)**
 - **Local Storage API**
 
-----------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 📸 Screenshots
 ![ToDo App Screenshot](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/Screenshot.png?raw=true)
 
-----------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 📂 Project Structure & Files
-- [`todo.html`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/todo.html) — Main HTML file  
+- [`index.html`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/index.html) — Main HTML file  
 - [`todo.css`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/todo.css) — Stylesheet  
 - [`todo.js`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/todo.js) — JavaScript logic  
 - [`README.md`](https://github.com/Paras9771/Interactive-ToDo-app/blob/main/README.md) — Project documentation  
 
-----------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🌐 Live Demo
-[Click here to try the app live on GitHub Pages]( https://paras9771.github.io/Interactive-ToDo-app/)
+[Click here to view the app](https://paras9771.github.io/Interactive-ToDo-app/)
 
-----------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-----------------------------------------------------------------------------------------------------------------------------
+---
 
 ## ✍️ Author
 **Paras Tomar**  
